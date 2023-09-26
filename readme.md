@@ -1,9 +1,5 @@
 # Project 3
 
-**Group Members:**
-1. Vaishnavi Chilakamarthi, UFID: 99936597, vchilakamarthi@ufl.edu 
-2. Vanshika Mehrotra, UFID: 77239277 , vmehrotra@ufl.edu
-
 **Description**
 In this project we aim to design, build and analyze the implementation of CHORD algorithm using AKKA actor framework.CHORD is a simple Peer to Peer protocol which implements a Distributed Hash Table detailed as per the paper - Stoica, Ion, Robert Morris, David Karger, M. Frans Kaashoek, and Hari Balakrishnan. "Chord: A scalable peer-to-peer lookup service for internet applications." ACM SIGCOMM Computer Communication Review 31, no. 4 (2001): 149-160.A Chord is one of the original Distributed Hash Table projects from the MIT PDOS group at Computer Science and AI Laboratory, MIT. A Distributed hash table(DHT) is a hash table distributed across various nodes in the network. The system allows any node that is part of the network to lookup location (i.e IP Address, in most cases) of the node containing the value of the key (not the value of the key itself).
 
